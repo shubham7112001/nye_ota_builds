@@ -16,7 +16,7 @@
 
           <!-- REQUIRED: REPLACE WITH YOUR IPA HTTPS URL -->
           <key>url</key>
-          <string>https://YOUR-DOMAIN.com/YOUR-APP.ipa</string>
+          <string>https://shubham7112001.github.io/nye_ota_builds/nye_uat_ios_420_178.ipa</string>
 
         </dict>
       </array>
@@ -26,18 +26,18 @@
 
         <!-- REQUIRED: REPLACE WITH YOUR BUNDLE IDENTIFIER -->
         <key>bundle-identifier</key>
-        <string>COM.YOUR.COMPANY.APP</string>
+        <string>com.rapipay.nye.test</string>
 
         <!-- REQUIRED: REPLACE WITH YOUR APP VERSION -->
         <key>bundle-version</key>
-        <string>1.0.0</string>
+        <string>4.2.0</string>
 
         <key>kind</key>
         <string>software</string>
 
         <!-- REQUIRED: REPLACE WITH YOUR APP NAME -->
         <key>title</key>
-        <string>YOUR APP NAME</string>
+        <string>NYE UAT</string>
 
       </dict>
 
