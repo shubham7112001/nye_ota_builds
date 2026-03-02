@@ -1,1 +1,6 @@
-{"asdf":"asdf"}
+{
+  "latestVersion": "2.0.0",
+  "build": "20",
+  "manifestUrl": "https://yourdomain.com/manifest.plist",
+  "isForceUpdate": true
+}
