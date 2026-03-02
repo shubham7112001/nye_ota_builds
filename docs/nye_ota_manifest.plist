@@ -49,6 +49,9 @@
         <key>kind</key>
         <string>software</string>
 
+        <key>platform-identifier</key>
+        <string>com.apple.platform.iphoneos</string>
+
         <!-- APP NAME -->
         <key>title</key>
         <string>NYE UAT</string>
