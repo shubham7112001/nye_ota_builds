@@ -19,6 +19,20 @@
           <string>https://shubham7112001.github.io/nye_ota_builds/nye_uat_ios_420_178.ipa</string>
 
         </dict>
+
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>url</key>
+          <string>https://shubham7112001.github.io/nye_ota_builds/icon57.png</string>
+        </dict>
+
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>url</key>
+          <string>https://shubham7112001.github.io/nye_ota_builds/icon512.png</string>
+        </dict>
       </array>
 
       <key>metadata</key>
