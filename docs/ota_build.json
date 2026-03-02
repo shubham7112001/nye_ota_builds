@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.0",
-  "build": "20",
-  "manifestUrl": "https://yourdomain.com/manifest.plist",
+  "latestVersion": "4.2.0",
+  "buildNumber": "178",
+  "manifestUrl": "https://shubham7112001.github.io/nye_ota_builds/nye_ota_manifest.plist",
   "isForceUpdate": true
 }

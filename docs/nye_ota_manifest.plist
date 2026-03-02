@@ -14,7 +14,7 @@
           <key>kind</key>
           <string>software-package</string>
 
-          <!-- REQUIRED: REPLACE WITH YOUR IPA HTTPS URL -->
+          <!-- IPA DOWNLOAD URL -->
           <key>url</key>
           <string>https://shubham7112001.github.io/nye_ota_builds/nye_uat_ios_420_178.ipa</string>
 
@@ -24,18 +24,18 @@
       <key>metadata</key>
       <dict>
 
-        <!-- REQUIRED: REPLACE WITH YOUR BUNDLE IDENTIFIER -->
+        <!-- BUNDLE IDENTIFIER -->
         <key>bundle-identifier</key>
         <string>com.rapipay.nye.test</string>
 
-        <!-- REQUIRED: REPLACE WITH YOUR APP VERSION -->
+        <!-- REQUIRED: BUILD NUMBER -->
         <key>bundle-version</key>
-        <string>4.2.0</string>
+        <string>178</string>
 
         <key>kind</key>
         <string>software</string>
 
-        <!-- REQUIRED: REPLACE WITH YOUR APP NAME -->
+        <!-- APP NAME -->
         <key>title</key>
         <string>NYE UAT</string>
 
