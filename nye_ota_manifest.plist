@@ -13,24 +13,32 @@
         <dict>
           <key>kind</key>
           <string>software-package</string>
+
+          <!-- REQUIRED: REPLACE WITH YOUR IPA HTTPS URL -->
           <key>url</key>
-          <string>https://your-secure-domain.com/app.ipa</string>
+          <string>https://YOUR-DOMAIN.com/YOUR-APP.ipa</string>
+
         </dict>
       </array>
 
       <key>metadata</key>
       <dict>
-        <key>bundle-identifier</key>
-        <string>com.your.bundleid</string>
 
+        <!-- REQUIRED: REPLACE WITH YOUR BUNDLE IDENTIFIER -->
+        <key>bundle-identifier</key>
+        <string>COM.YOUR.COMPANY.APP</string>
+
+        <!-- REQUIRED: REPLACE WITH YOUR APP VERSION -->
         <key>bundle-version</key>
         <string>1.0.0</string>
 
         <key>kind</key>
         <string>software</string>
 
+        <!-- REQUIRED: REPLACE WITH YOUR APP NAME -->
         <key>title</key>
-        <string>Your App</string>
+        <string>YOUR APP NAME</string>
+
       </dict>
 
     </dict>
