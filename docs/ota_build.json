@@ -2,5 +2,5 @@
   "latestVersion": "4.2.0",
   "buildNumber": "120",
   "manifestUrl": "https://shubham7112001.github.io/nye_ota_builds/nye_ota_manifest.plist",
-  "isForceUpdate": true
+  "isForceUpdate": false
 }
